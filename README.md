@@ -3,6 +3,11 @@
 <h5 align="center">Welcome to my GitHub profile! I am Shayekh Zaman, a passionate frontend developer with a knack for crafting seamless user experiences and efficient web applications. Currently, I am spearheading the frontend development team at Dokane POS Software.</h5>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayekhzaman" alt="shayekhzaman" /></a> </p>
 
+- 🌱 I’m constantly learning and exploring new technologies to enhance my skills.
+- 👯 I’m looking to collaborate on innovative projects that challenge the status quo.
+- 🤔 I’m open to discussing new opportunities and ideas.
+- 💬 Ask me about frontend development, React, Next.js, and software architecture.
+- ⚡ Fun fact: I love solving problem.
 - 📫 How to reach me **ashikzaman149@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
